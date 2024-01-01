@@ -3,7 +3,8 @@
 
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtha-7&label=Profile%20views&color=0e75b6&style=flat" alt="nishtha-7" /> </p>
+<p align="left"> <img src="![image](https://github.com/Nishtha-7/Nishtha-7/assets/138673188/1759e7ec-96f9-437c-b63f-6f8582c9c342)
+" /> </p>
 
 - 🌱 I’m currently learning **DSA and more about app development**
 
